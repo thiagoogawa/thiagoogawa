@@ -14,3 +14,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
+---
+Sou Thiago Ogawa, estudante de engenharia de software na PUC Campinas. O meu foco é o desenvolvimento iOS, mas aqui no github deixo outros projetos também :)
