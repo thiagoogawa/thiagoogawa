@@ -8,8 +8,13 @@ Hi, I'm Thiago Ogawa, iOS Software Engineer focused on building performant, clea
 
 ---
 ## Skills and Experience:
+- English (B2 - Intermediate)
 - Swift & SwiftUI
 - Concurrency (GCD, async/await)
 - RESTful APIs (URLSession, Codable)
 - MVVM architecture
 - Firebase (learning)
+
+---
+## Projects:
+You can find my iOS projects in the repositories section.
